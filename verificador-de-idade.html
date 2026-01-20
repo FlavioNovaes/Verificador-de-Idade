@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Verificador de Idade</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Verificador de Idade</h1>
+    </header>
+    <section>
+        <div id="nascimento">
+            <p>Ano de Nascimento: <input type="number" name="ano-nascimento" id="ano-nascimento"></p>
+            <p>Sexo:
+                <input type="radio" name="radsex" id="masculino">
+                <label for="masculino">Masculino</label>
+                <input type="radio" name="radsex" id="feminino">
+                <label for="feminino">Feminino</label> 
+                <p><input type="button" value="Verificar" onclick="verificar()"></p>
+            </p>
+        </div>
+        <div id="resultado">
+
+        </div>
+    </section>
+    <footer>
+        <p>&copy; Flávio Novaes</p>
+    </footer>
+    <script src="script.js"></script>
+</body>
+</html>
