@@ -1,6 +1,4 @@
-# Verificador de Idade
-
-🎂 Verificador de Idade
+# 🎂 Verificador de Idade
 
 Projeto simples desenvolvido em **HTML, CSS e JavaScript**, que permite ao usuário informar o ano de nascimento e o sexo, realizando o cálculo da idade e exibindo dinamicamente uma mensagem personalizada junto com uma imagem correspondente (criança, jovem, adulto ou idoso).
 
