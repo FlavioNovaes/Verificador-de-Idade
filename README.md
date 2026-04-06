@@ -16,16 +16,16 @@ Este projeto foi desenvolvido com base nas aulas do Curso em Vídeo, ministradas
 ## 🖼️ Preview do Projeto
 
 ### 👨 Adulto
-![Adulto](img/verificador-de-idade-adulto.png)
+![Adulto](verificador-de-idade-adulto.png)
 
 ### 👦 Jovem
-![Jovem](img/verificador-de-idade-jovem.png)
+![Jovem](verificador-de-idade-jovem.png)
 
 ### 👴 Idoso
-![Idoso](img/verificador-de-idade-idoso.png)
+![Idoso](verificador-de-idade-idoso.png)
 
 ### 👶 Criança
-![Crianca](img/verificador-de-idade-crianca.png)
+![Crianca](verificador-de-idade-crianca.png)
 
 ## 🚀 Funcionalidades
 
